@@ -1,0 +1,44 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Private Schluessel und Einstellungen
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+keystore.properties
+signing.properties
+.env
+.env.*
+
+# Lokale Backups und Daten
+*.apk
+*.aab
+*.zip
+*.db
+*.sqlite
+*.sqlite3
+*.m4a
+
+app/release/
